@@ -1,3 +1,5 @@
+Note: This repository was created by Emine Topcu (https://github.com/EmineTopcu/) during her BSc studies in the Biggar lab.
+
 # PeSA
 **Pe**ptide **S**pecificity **A**nalysis
 
